@@ -1,1 +1,1 @@
-# Maven_project
+# Simple project: Maven + JUnit + Git
